@@ -14,7 +14,7 @@
         >
           <!-- Mobile Logo Toggle -->
           <div class="flex justify-between items-center w-full md:w-auto">
-            <a href="/" class="text-2xl font-bold text-pink-600"
+            <a href="/" class="text-2xl font-bold text-green-600"
               >Ardo-Commerce</a
             >
             <button
@@ -86,7 +86,7 @@
     </section>
 
     <!-- Navbar -->
-    <nav class="bg-pin-950" aria-label="Main navigation">
+    <nav class="bg-pink-950" aria-label="Main navigation">
       <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <ul
           class="hidden md:flex justify-center py-3 flex-wrap gap-x-6 text-sm font-medium text-white"

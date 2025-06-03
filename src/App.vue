@@ -1,9 +1,8 @@
-<template lang="">
+<template>
   <div>
-    <h1 class="text-3xl font-bold underline">Hello world!</h1>
+    <Header />
   </div>
 </template>
-<script>
-export default {};
+<script setup>
+import Header from "./components/Header.vue";
 </script>
-<style lang=""></style>
